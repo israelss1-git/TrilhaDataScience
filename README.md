@@ -29,7 +29,12 @@ Trilha de conhecimentos para data science.
 >> Exmplos: 
 >> * Um grupo de flores pode ser categorizado em classes de cor, espécie...
 >> * Um grupo de carros pose ser categorizado em classes de cor, marca, modelo, ano...
-### Aprendizado supervisionado
+>> 
+> ### Aprendizado supervisionado
+>> O modelo de conhecimento é construído a partir de dados apresentados na forma de pares ordenados onde existe uma entrada de dados e uma sáda esperada. O algorítimo é treinado com um número suficiente de exemplos como objetivo de mapear a regra geral das entras com as saídas. Depois, aplica-se ester modelo para entradas que não possuem a saiída, para que seja inferido pelo algorítimo. Os modelos supervisionados são divididos em modelos de clasificação e de regressão.
+>> * Classificação: busca uma funçaõ matemática capaz de associar corretamente uma entrada de um conjunto único de dados a um único rótulo demoninado classe. O resultado será sempre uma classe. Um exemplo é mapear um perfil para classeificar uma pessoa em um perfil de bom pagador ou de mal pagador para decisão se lhe pode conceder empréstimo ou não.
+>> * Regressão: é semelhante a classificação, porém o resultado retorna um resultado numérico, podendo ser contínuo ou discreto. A saída deve ser o mais próximo possível do resultado desejado e fornecer uma medida de erro de estimaçao do  algorítimo.
+
 ### Aprendizado não supervisionado
 ### Atributos
 ### Base de treino e base de teste
