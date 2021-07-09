@@ -16,12 +16,12 @@ Trilha de conhecimentos para data science.
 >> Machine Learning é uma técnica de Data Mining (mineração de dados).
 > ### Variáveis
 >> As variáveis podem ser classificadas em qualitativas e quantitativas
->> * Qualitativas estão ligados a característica da informação. Podem ser ordinais e nominais.
->> 1. Ordinais quando existir uma ordem implícita. Classe social, grau de instrução, estágio de doença.
->> 2. Nominais quando exprimem uma característica. Cor dos olhos, fumante ou não fumante, doente ou sadio.
->> * Quantitativa estão relacionadas a números e medidas. Podem ser discretas ou contínuas.
->> 1. Discretas quando forem finitas e enumeráveis. Quantidade de filhos, número de dias de execução.
->> 2. Contínuas quando pertencem a um intervalo de números reais ou são resultados de medidas. Peso, altura, salário.
+>> * **Qualitativas** estão ligados a característica da informação. Podem ser ordinais e nominais.
+>> **1. Ordinais quando** existir uma ordem implícita. Classe social, grau de instrução, estágio de doença.
+>> **2. Nominais quando** exprimem uma característica. Cor dos olhos, fumante ou não fumante, doente ou sadio.
+>> * **Quantitativa** estão relacionadas a números e medidas. Podem ser discretas ou contínuas.
+>> **1. Discretas** quando forem finitas e enumeráveis. Quantidade de filhos, número de dias de execução.
+>> **2. Contínuas** quando pertencem a um intervalo de números reais ou são resultados de medidas. Peso, altura, salário.
 >> 
 > ### Variáveis Categóricas
 >> Quando é possível separar as váriáveis em grupos, finito e distintos.Podendo ou não ter uma ordem lógica.
@@ -32,10 +32,15 @@ Trilha de conhecimentos para data science.
 >> 
 > ### Aprendizado supervisionado
 >> O modelo de conhecimento é construído a partir de dados apresentados na forma de pares ordenados onde existe uma entrada de dados e uma sáda esperada. O algorítimo é treinado com um número suficiente de exemplos como objetivo de mapear a regra geral das entras com as saídas. Depois, aplica-se ester modelo para entradas que não possuem a saiída, para que seja inferido pelo algorítimo. Os modelos supervisionados são divididos em modelos de clasificação e de regressão.
->> * Classificação: busca uma funçaõ matemática capaz de associar corretamente uma entrada de um conjunto único de dados a um único rótulo demoninado classe. O resultado será sempre uma classe. Um exemplo é mapear um perfil para classeificar uma pessoa em um perfil de bom pagador ou de mal pagador para decisão se lhe pode conceder empréstimo ou não.
->> * Regressão: é semelhante a classificação, porém o resultado retorna um resultado numérico, podendo ser contínuo ou discreto. A saída deve ser o mais próximo possível do resultado desejado e fornecer uma medida de erro de estimaçao do  algorítimo.
+>> * **Classificação:** busca uma funçaõ matemática capaz de associar corretamente uma entrada de um conjunto único de dados a um único rótulo demoninado classe. O resultado será sempre uma classe. Um exemplo é mapear um perfil para classeificar uma pessoa em um perfil de bom pagador ou de mal pagador para decisão se lhe pode conceder empréstimo ou não.
+>> * **Regressão:** é semelhante a classificação, porém o resultado retorna um resultado numérico, podendo ser contínuo ou discreto. A saída deve ser o mais próximo possível do resultado desejado e fornecer uma medida de erro de estimaçao do  algorítimo. Um exemplo de regressão é, saebr quanto de crédito oferecer para um cliente. A resposta é um número único.
 
-### Aprendizado não supervisionado
+> ### Aprendizado não supervisionado
+>> O modelo é construído para analisar grupo e padrões, sem ter um objetivo objetivo específico a ser alcançado, não tem uma saída mapeada. É dividi em Agrupamento e Associação.
+>> * **Agrupamento:**
+>> * **Associação:**
+
+
 ### Atributos
 ### Base de treino e base de teste
 ### Classificação
