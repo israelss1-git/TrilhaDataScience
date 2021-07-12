@@ -19,12 +19,15 @@ Trilha de conhecimentos para data science.
 
 ## 3 - Programação
 > ### Python Basics
+>> Pequenas aplicações em python nível iniciante. Trata-se de um jogo de forca e um jogo de adivinhação, feitos sob orientação durante o curso de Python da plataforma [Alura](https://www.alura.com.br/).
+>> 
+>> As aplicações estão disponibilizadas neste link. [Jogos](https://github.com/israelss1-git/jogos_python)
 > ### Working in Excel
 > ### R Basics
 
 ## 4 - Machine Learning
 > ### Data Mining
->> É o processo de descoberta de novas e significativas correlações, padrões e tendências em grandes volumes de dados, através do uso de técnicas de reconhecimento de padr~eos, estatística e outras ferramentas matemáticas. (Gartner Group)
+>> É o processo de descoberta de novas e significativas correlações, padrões e tendências em grandes volumes de dados, através do uso de técnicas de reconhecimento de padrões, estatística e outras ferramentas matemáticas. (Gartner Group)
 > >O objetivo principal é a extração de conhecimento, não levando em conta o tempo ou a natureza das atividades para esta tarefa.
 > ### Machile Learning
 >> É uma técnica para descoberta de padrões que utiliza algorítimos para extrair informações de dados brutos e representá-los através de algum tipo de modelo matemático. Este modelo é então usado para fazer inferências em outros conjuntos de dados.
