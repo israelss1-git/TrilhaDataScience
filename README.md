@@ -21,7 +21,11 @@ Trilha de conhecimentos para data science.
 > ### Python Basics
 >> Pequenas aplicações em python nível iniciante. Trata-se de um jogo de forca e um jogo de adivinhação, feitos sob orientação durante o curso de Python da plataforma [Alura](https://www.alura.com.br/).
 >> 
->> As aplicações estão disponibilizadas neste link. [Jogos](https://github.com/israelss1-git/jogos_python)
+>> FORCA: Aplicação onde é apresentado uma palavra secreta apresentando o número de letras da palavras e solicitando a entrada de uma letra. Acertando, os espaços são preenchidos, errando, é preenchido as partes do bonequinho na forca. [FORCA](https://github.com/israelss1-git/jogos_python/blob/main/forca.py)
+>> 
+>> ADVINHAÇÃO: É apresentado os níveis de dificuldade para escolha. O usuário tem, algumas chances de erro para acertar o número sorteado aleatóriamente entre 1 e 100. A cada erro, é apresentado a dica se o chute foi mais baixo ou mais alto que o número oculto. [ADIVINHAÇÃO](https://github.com/israelss1-git/jogos_python/blob/main/adivinhacao.py)
+>> 
+>> Todo o projeto está neste link. [JOGOS](https://github.com/israelss1-git/jogos_python)
 > ### Working in Excel
 > ### R Basics
 
