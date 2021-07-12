@@ -2,10 +2,25 @@
 Trilha de conhecimentos para data science.
 
 ## 1 - Fundamentos
+> ### OLAP
+> ### ETL
+> ### XML
+> ### JSON
+> ### REGEX 
+>> Abreviação de Regular Expression, em portugêns expressão regular. 
+>> 
+>> "O termo deriva do trabalho do matemático norte-americano Stephen Cole Kleene, que desenvolveu as expressões regulares como uma notação ao que ele chamava de álgebra de conjuntos regulares. Seu trabalho serviu de base para os primeiros algoritmos computacionais de busca, e depois para algumas das mais antigas ferramentas de tratamento de texto da plataforma Unix. (Wikipédia)
+>> 
+>> É uma notação para busca de caracteres em cadeia. Muito utilizado em programação para busca de palavras, sequências numéricas, trechos de código, validação de entradas e várias outras aplicações. Muitas linguagem tem REGEX nativo. Existem diversos testadores online para desenvolvimento de e aprendizado de expressões.
+>> 
+>> Exemplos 
 
 ## 2 - Estatística
 
 ## 3 - Programação
+> ### Python Basics
+> ### Working in Excel
+> ### R Basics
 
 ## 4 - Machine Learning
 > ### Data Mining
@@ -26,7 +41,7 @@ Trilha de conhecimentos para data science.
 > ### Variáveis Categóricas
 >> Quando é possível separar as váriáveis em grupos, finito e distintos.Podendo ou não ter uma ordem lógica.
 >> 
->> Exmplos: 
+>> Exemplos: 
 >> * Um grupo de flores pode ser categorizado em classes de cor, espécie...
 >> * Um grupo de carros pose ser categorizado em classes de cor, marca, modelo, ano...
 >> 
